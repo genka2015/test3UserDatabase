@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetUserDatabase</string>
+    <string name="lbl_get_user">GET USER</string>
+</resources>
